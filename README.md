@@ -8,6 +8,9 @@ Front End Developer
 * ✉️  You can contact me at [bankgim@gmail.com](mailto:bankgim@gmail.com)
 * 🧠  I'm learning Backend skills : MongoDB, Python , Golang
 * 🤝  I'm open to collaborating on React.js, Next.js, and both frontend and full-stack web development.
+* 💼 You can view my portfolio here. <a href='https://my-porfolio-apisit.netlify.app/'>My portfolio</a>
+* 🧠 I'm currently improving my skills 💪🔥
+
 
 ## Skills
 <p align="left">
